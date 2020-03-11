@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583875644 source:c:\users\elqoods\desktop\desktop\c projects\smallest_even\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
